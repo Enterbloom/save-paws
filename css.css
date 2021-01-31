@@ -5,7 +5,7 @@ html{
     margin-top: 40px;
     display: flex;
     flex-direction: column;
-    background: url('/images/petss.jpg') no-repeat center center fixed;
+    background: url('./images/petss.jpg') no-repeat center center fixed;
     height: 100vh;
     align-items: center;
     justify-content: center;
